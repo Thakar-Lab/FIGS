@@ -41,7 +41,6 @@ HypGeoTest.m
 
 Process_FCM.m
 
-FIGS_INIT_FCM.m 
 
 Display_Circular_Graph.m
 
