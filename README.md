@@ -28,7 +28,9 @@ Other projects of Thakar Lab can be accessed at: http://www.bio-networks.com/
  
  ================================
  
- 
+Prerequisites for running FIGS: Matlab 
+
+
 Files required for running FIGS package:
  
 Run_FIGS.m 
@@ -44,5 +46,3 @@ FIGS_INIT_FCM.m
 Display_Circular_Graph.m
 
 
-
-Prerequisites for running FIGS: Matlab 
