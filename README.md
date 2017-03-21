@@ -32,11 +32,17 @@ Other projects of Thakar Lab can be accessed at: http://www.bio-networks.com/
 Files required for running FIGS package:
  
 Run_FIGS.m 
+
 FIGS_FCM.m 
+
 HypGeoTest.m
+
 Process_FCM.m
+
 FIGS_INIT_FCM.m 
+
 Display_Circular_Graph.m
+
 
 
 Prerequisites for running FIGS: Matlab 
