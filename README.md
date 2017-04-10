@@ -5,7 +5,9 @@ Fuzzy Inference of Gene-Sets (FIGS)
 
 
 
-FIGS implements optimized fuzzy c-means clustering algorithm to produce functionally related genes (gene-sets) from gene expression data. This package optimizes initial cluster centroids with Ward's hierarchical clustering method that produces robust and stable clustering solution. FIGS GUI interface makes it easy to upload data and set the fuzzy c-means clustering parameters. The package also implements different criteria for associating genes to the clusters (see manual for details). Additionally, the users can upload their list of pathways for enrichment of fuzzy gene-sets. The results (fuzzy gene-sets) are stored in excel files and are also displayed in tabular form. The enrichment results and overlap between the gene-sets are displayed as interactive circular graphs.         
+FIGS implements optimized fuzzy c-means clustering algorithm to produce functionally related genes (gene-sets) from gene expression data. This package optimizes initial cluster centroids with Ward's hierarchical clustering method that produces robust and stable clustering solution. FIGS GUI interface makes it easy to upload data and set the fuzzy c-means clustering parameters. The package also implements different criteria for associating genes to the clusters (see manual for details). Additionally, the users can upload their list of pathways for enrichment of fuzzy gene-sets. The results (fuzzy gene-sets) are stored in excel files and are also displayed in tabular form. The enrichment results and overlap between the gene-sets are displayed as interactive circular graphs. 
+
+Additionally, for non Matlab users, FIGS can be run by downloading and installing FIGS_Intallable_Package.exe file. This file contains FIGS package and Matlab Runtime Compiler. Please create a desktop shortcut during the installation and run FIGS package via desktop shortcut.     
 
 This interactive package is developed by Atif Khan Ph.D., Dejan Katanic and Juilee Thakar Ph.D. from University of Rochester Medical Center, Rochester NY. For futher information regarding FIGS, please contact: 
 
